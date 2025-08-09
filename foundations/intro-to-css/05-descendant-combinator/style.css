@@ -1,0 +1,18 @@
+/*
+4 different ways to do descendant 
+*/
+div p {
+    background-color: yellow;
+}
+
+.container .text {
+    color: red;
+}
+
+div .text {
+    font-size: 20px;
+}
+
+.container p {
+    text-align: center;
+}
